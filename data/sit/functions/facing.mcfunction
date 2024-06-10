@@ -1,0 +1,1 @@
+execute as @e[tag=mount] run function sit:rootvehicle_check
